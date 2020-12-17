@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jembi/openhim-mediator-engine-java.svg)](https://travis-ci.org/jembi/openhim-mediator-engine-java) [![OpenHIM Core](https://img.shields.io/badge/openhim--core-1.2%2B-brightgreen.svg)](http://openhim.readthedocs.org/en/latest/user-guide/versioning.html)
+![Build](https://github.com/hamilton-health-sciences/openhim-mediator-engine-java/workflows/Build/badge.svg) ![CodeQL](https://github.com/hamilton-health-sciences/openhim-mediator-engine-java/workflows/CodeQL/badge.svg)
 
 OpenHIM Mediator Engine
 =======================
